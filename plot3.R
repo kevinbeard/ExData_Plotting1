@@ -1,3 +1,6 @@
+#Expl Data Analysis
+#Recreate Plot 3
+
 ## Read data
 elecdata<-read.table("./Data/household_power_consumption.txt", sep=";", header=TRUE)
 
